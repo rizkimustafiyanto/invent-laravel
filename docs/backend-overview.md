@@ -225,6 +225,7 @@ Response paginated:
 
 - `/api/users`
 - `/api/products`
+- `/api/category`
 - `/api/sales`
 - `/api/sale-details`
 - `/api/payments`

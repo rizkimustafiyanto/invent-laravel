@@ -1,4 +1,4 @@
-# Sales Report Backend
+# Inventory Backend
 
 Backend API untuk aplikasi `inventory` menggunakan Laravel dan struktur `module-based`.
 
@@ -18,6 +18,7 @@ Backend API untuk aplikasi `inventory` menggunakan Laravel dan struktur `module-
   - `/api/sales`
   - `/api/sale-details`
   - `/api/payments`
+  - `/api/category`
 
 ## Fitur Response
 

@@ -1,4 +1,4 @@
-# Sales Report Backend
+# Inventory Backend
 
 Backend untuk aplikasi `inventory` berbasis Laravel dengan struktur `module-based`.
 
